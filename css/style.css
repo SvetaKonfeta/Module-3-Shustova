@@ -1,0 +1,50 @@
+
+.header {
+  background-color: palegoldenrod;
+  padding: 20px;
+  text-align: center;
+  margin: 15px;
+  font-family: 'Jura', Helvetika, Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+.name {
+  margin: 15px;
+  font-family: 'Jura', Helvetika, Arial, sans-serif;
+  display: flex;
+}
+
+h1 {
+  color: rgb(24, 24, 22);
+  text-align: center;
+  font-family: 'Jura', Helvetika, Arial, sans-serif;
+}
+
+.section01 {
+  background-color: palegoldenrod;
+  padding: 10px;
+}
+
+.section02 {
+padding-left: 30px;
+}
+
+.contacts01 {
+  display: flex;
+align-items: center;
+}
+
+.contacts02 {
+  display: flex;
+align-items: center;
+}
+.footer {
+  background-color: palegoldenrod;
+  text-align: center;
+  margin: 15px;
+  font-family: 'Jura', Helvetika, Arial, sans-serif;
+}
